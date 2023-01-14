@@ -27,4 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Installations
-- Angular Material: `ng add @angular/material` (https://material.angular.io/)
+- [Angular Material:](https://material.angular.io/)  `ng add @angular/material`
+  
+### Criação de módulo com roteamento 
+`ng g m courses --routing`
+
+### Criação de componente 
+`ng g m courses --routing`
